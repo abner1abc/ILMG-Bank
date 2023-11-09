@@ -1,1 +1,1 @@
-Study files with TypeScript and a script from a banking system.
+Script from a banking system.
