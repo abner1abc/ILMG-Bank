@@ -65,9 +65,9 @@ class Conta{
 const conta: Conta = new Conta({nomeTitular: 'Abner'})
 //const contaB: conta = new conta({nomeTitular: 'Remaldo',saldo:10})
 
-conta.cancelarConta()
+//conta.cancelarConta()
 
-conta.depositar(10)
+//conta.depositar(1000)
 
 
 //console.log('Antes do depósito',contaA.meuSaldo())
@@ -75,7 +75,7 @@ conta.depositar(10)
 
 //console.log('Depois do depósito',contaA.meuSaldo())
 
-//contaA.sacar(120)
+//conta.sacar(1000)
 
 //console.log('Depois do saque',contaA.meuSaldo())
 
